@@ -13,5 +13,5 @@ message1 = "accuracy is less than 90%.Try again"
 s.sendmail("hrishiraj48@gmail.com", "1706505@kiit.ac.in", message1)
     
 
-    # terminating the session 
+    # terminating the session
 s.quit()
